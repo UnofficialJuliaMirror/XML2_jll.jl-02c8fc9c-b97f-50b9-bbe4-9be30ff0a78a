@@ -1,0 +1,11 @@
+name = "XML2_jll"
+uuid = "02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a"
+version = "2.9.9+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
